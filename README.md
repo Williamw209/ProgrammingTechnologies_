@@ -1,2 +1,2 @@
 # ProgrammingTechnologies_
-Aim sandbox like aimlabs
+Aim sandbox to train your relex and percision
